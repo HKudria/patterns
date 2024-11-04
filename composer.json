@@ -1,0 +1,22 @@
+{
+    "name": "hkudria/patterns",
+    "autoload": {
+        "psr-4": {
+            "App\\Factory\\": "Factory/",
+            "App\\AbstractFactory\\": "AbstractFactory/",
+            "App\\AbstractPizzaFactory\\": "AbstractPizzaFactory/",
+            "App\\Builder\\": "Builder/",
+            "App\\ChainOfResponsibility\\": "ChainOfResponsibility/",
+            "App\\Command\\": "Command/",
+            "App\\Strategy\\": "Strategy/",
+            "App\\Decorator\\": "Decorator/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Herman Kudria",
+            "email": "hkudria@ifxpayments.com"
+        }
+    ],
+    "require": {}
+}
